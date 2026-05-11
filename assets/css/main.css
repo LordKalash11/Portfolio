@@ -2020,7 +2020,8 @@ input, select, textarea {
 			background: #fff;
 		}
 		.wrapper.style21 {
-			background: #484d55;
+			background: #e97770 ;
+			text-emphasis-color: #fff;
 		}
 
 			.wrapper.style2 .title {
